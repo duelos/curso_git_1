@@ -1,6 +1,7 @@
 # RELATORIO DE ECOMMERCE
 
-vamos criar um relatorio para dados de ecommerce
+**vamos criar um relatorio para dados de ecommerce**
+*vou nada orxe mo preguuica*
 
 ## CODIGOS
 
